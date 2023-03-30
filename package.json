@@ -1,0 +1,16 @@
+{
+  "name": "eadt-bot",
+  "version": "1.0.0",
+  "description": "Bot for my WoW Guild Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damid",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "request-libcurl": "^2.3.4"
+  }
+}
